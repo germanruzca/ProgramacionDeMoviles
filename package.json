@@ -1,0 +1,19 @@
+{
+  "name": "programaciondemoviles-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Javi1499/ProgramacionDeMoviles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Javi1499/ProgramacionDeMoviles/issues"
+  },
+  "homepage": "https://github.com/Javi1499/ProgramacionDeMoviles#readme"
+}
